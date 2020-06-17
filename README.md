@@ -1,2 +1,5 @@
 # Hello-world
-Just a test
+
+Let's started with "Git".
+
+I'm trying a new thing.
